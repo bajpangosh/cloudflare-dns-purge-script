@@ -1,5 +1,3 @@
-Certainly! Below is a simple GitHub README file for the Cloudflare DNS Purge script:
-
 # Cloudflare DNS Purge Script
 
 This script allows you to delete all DNS records for a specified domain on Cloudflare using the Cloudflare API.
